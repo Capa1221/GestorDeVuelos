@@ -1,0 +1,7 @@
+{
+  "name": "gestor_viajes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
